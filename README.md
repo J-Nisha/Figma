@@ -78,18 +78,22 @@ FRAME 3
   <div style="left: 99px; top: 314px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Abhaya Libre; font-weight: 400; word-wrap: break-word">We are all eagerly<br/> waiting for your <br/>participation in the <br/>sports event !!</div>
   <div style="left: 32px; top: 706px; position: absolute; text-align: center; color: #F6E63A; font-size: 24px; font-family: Abril Fatface; font-weight: 400; word-wrap: break-word">CONTACT US:<br/>EMAIL ID : savee@gmail.com<br/>PHONE NO : +91 9864527824</div>
   <div style="width: 100px; height: 100px; left: 281px; top: 393px; position: absolute"></div>
-  <img style="width: 159px; height: 191px; left: 111px; top: 482px; position: absolute; border-radius: 375px" src="https://placehold.co/159x191" />
+  <img style="width: 159px; height: 191px; left: 111px; top: 482px; position: absolute; border-radius: 375px" src="https://placehold.co/159x191" />![Screenshot 2025-05-12 221253](https://github.com/user-attachments/assets/c4727d18-6bf5-4b8d-99b3-87fc78452575)
+
 </div>
 
 ```
 
+
 ## OUTPUT:
+![Screenshot 2025-05-12 221253](https://github.com/user-attachments/assets/4700b23d-ae31-4e63-a154-c7b8309993c7)
 
-![alt text](<Screenshot 2025-05-12 221253.png>)
+![Screenshot 2025-05-12 221302](https://github.com/user-attachments/assets/f043f2dc-bdf8-41c8-9c69-f25ce06b8585)
 
-![alt text](<Screenshot 2025-05-12 221302.png>)
+![Screenshot 2025-05-12 221344](https://github.com/user-attachments/assets/738a87ff-db45-4953-83e5-c62a5e76240a)
 
-![alt text](<Screenshot 2025-05-12 221344.png>)
+
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
