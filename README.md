@@ -1,6 +1,7 @@
 # Ex09 Event Registration Web Application
-## Date:14-05-2025
-## NAME : JOANN ELIZABETH REG NO : 212224040139
+## Date: 21/05/2025
+## NAME : Nisha.J
+## REGISTER NUMBER:212223040133
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
